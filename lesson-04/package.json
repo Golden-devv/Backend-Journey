@@ -1,0 +1,13 @@
+{
+  "name": "lesson-04",
+  "version": "1.0.0",
+  "description": "This lesson is about a project on fs module",
+  "main": "noteManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fs", "file", "system", "node.js","project"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
