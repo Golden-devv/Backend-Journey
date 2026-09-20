@@ -6,7 +6,7 @@ const key = Buffer.from(secretKey, "hex")
 const iv = crypto.randomBytes(16)
 
 const cipher = crypto.createCipheriv("aes-128-cbc",key,iv)
-let encripted = cipher.update("Sorbojitsaker78@gmail.com","utf-8",'hex')
+let encripted = cipher.update("example123@gmail.com","utf-8",'hex')
 encripted += cipher.final("hex")
 console.log(encripted)
 
