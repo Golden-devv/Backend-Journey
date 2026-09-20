@@ -1,0 +1,29 @@
+{
+  "name": "@golden-devv/prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "This module returns a boolean value indicating whether an integer is prime.",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "homepage": "https://github.com/Golden-devv/Backend-Journey/tree/main/prime-number-checker-module",
+  "bugs": {
+    "url": "https://github.com/Golden-devv/Backend-Journey/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Golden-devv/Backend-Journey.git",
+    "directory": "prime-number-checker-module"
+  },
+  "license": "ISC",
+  "author": "Golden-devv",
+  "type": "commonjs",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

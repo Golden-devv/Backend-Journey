@@ -14,4 +14,4 @@ Lesson 4 ✅
 Lesson 5 ✅
 Lesson 6 ✅
 Lesson 8 ✅
-Lesson 9 ✅
+prime-number-checker-module ✅
